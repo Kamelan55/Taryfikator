@@ -78,6 +78,10 @@
     <tr>
       <td><span style="color: grey">Poruszanie się po poboczu lub chodniku:
       <td><span style="color: grey">$2 000
+          
+    <tr>
+      <td><span style="color: grey">Nieustąpienie pierwszeństwa:
+      <td><span style="color: grey">Od $250 do $600
     
     <tr>
       <td><span style="color: grey">Hamowanie w sposób powodujący zagrożenie bezpieczeństwa ruchu lub jego utrudnianie:
@@ -187,9 +191,25 @@
   <tr>
     
   <tr>
-    <td><span style="color: grey">Agresja słowna wobec funkcjonariusza:
+    <td><span style="color: grey">Agresja słowna wobec funkcjonariusza
     <td><span style="color: grey">5 min więzienia
+        
+ <tr>
+    <td><span style="color: grey">Atak na inną osobę
+    <td><span style="color: grey">$4 000 + 5 min więzienia
+        
+   <tr>
+    <td><span style="color: grey">Atak na funkcjonariusza
+    <td><span style="color: grey">$5 000 + 15 min więzienia
+        
+   <tr>
+    <td><span style="color: grey">Zabójstwo gracza
+    <td><span style="color: grey">$2 000 + 10 min więzienia
   
+    <tr>
+    <td><span style="color: grey">Zabójstwo funkcjonariusza
+    <td><span style="color: grey">$7 500 + 20 min więzienia
+        
   <tr>
     <td><span style="color: grey">Niestosowanie się do poleceń funkcjonariusza Policji
     <td><span style="color: grey">$5 000 + 15 min więzienia
@@ -236,7 +256,7 @@
   
   <tr>
     <td><span style="color: grey">Spowodowanie katastrofy lotniczej
-    <td><span style="color: grey">$30 000 + 5 min więzienia
+    <td><span style="color: grey">$30 000 
     
     <tr bgcolor="grey">
   <td colspan="2"><span style="color: IndianRed"><b>Cayo Perico</b>
