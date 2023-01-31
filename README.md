@@ -16,7 +16,7 @@
     
     <tr>
         <tr bgcolor="red">
-        <td colspan="3"><b>Prędkość</b>
+        <td colspan="10"><b>Prędkość</b>
     
         
     
