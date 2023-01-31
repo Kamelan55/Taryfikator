@@ -158,7 +158,7 @@
     <td><span style="color: grey">$5 000
   
   <tr>
-    <tr bgcolor="grey"></td>
+    <tr bgcolor="grey">
     <td colspan="2"><b>Postój</b>
     <tr>
   
