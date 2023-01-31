@@ -5,47 +5,10 @@
     <meta charset="UTF-8">
     <meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>Taryfikator</title>
     
-    <style>
-    
-        body{
-            font-family:'Poppins', sans-serif;
-            background: linear-gradient(to right, #4d0000, #000c19);
-            display:flex;
-            
-
-        }
-  table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-td   {
-  border: 3px solid black;
-  padding: 8px;
-  text-align: center;
-  font-size: 20px;
-}
-        
-        
-  
-  
-  
-  
-
- 
-  
-
-
-
-
-
-    
-
-
-</style>
+   
 
 <table>
     
