@@ -19,7 +19,7 @@
     
     
     <tr>
-        <tr bgcolor="#grey">
+        <tr bgcolor="wheat">
         <td colspan="2"><b>Prędkość</b>
     
         
