@@ -12,6 +12,10 @@
 
     <table>
     
+    <tr>
+        <td bg color="none">
+        <td colspan="2">
+    
     
     
     <tr>
