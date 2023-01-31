@@ -48,7 +48,7 @@
     
     <tr>
         <tr bgcolor="grey">
-      <td colspan="2"><span style="color: DarkRed"><b>Manewry</b>
+      <td colspan="2"><span style="color: IndianRed"><b>Manewry</b>
       <tr>
     
     <tr>
@@ -96,7 +96,7 @@
         <td><span style="color: grey">$2 500
       
       <tr bgcolor="grey">
-    <td colspan="2"><span style="color: DarkRed"><b>Transport</b>
+    <td colspan="2"><span style="color: IndianRed"><b>Transport</b>
     <tr> 
   
   <tr>
@@ -117,7 +117,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><span style="color: DarkRed"><b>Ucieczka</b>
+    <td colspan="2"><span style="color: IndianRed"><b>Ucieczka</b>
     <tr>
   
   <tr>
@@ -134,7 +134,7 @@
  
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><span style="color: DarkRed"><b>Kradzież</b>
+    <td colspan="2"><span style="color: IndianRed"><b>Kradzież</b>
     <tr>
   
   <tr>
@@ -147,7 +147,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><span style="color: DarkRed"><b>Zdarzenia drogowe</b>
+    <td colspan="2"><span style="color: IndianRed"><b>Zdarzenia drogowe</b>
     <tr>
     
   <tr>
@@ -164,7 +164,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><span style="color: DarkRed"><b>Postój</b>
+    <td colspan="2"><span style="color: IndianRed"><b>Postój</b>
     <tr>
   
   <tr>
@@ -177,7 +177,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><span style="color: DarkRed"><b>Inne</b>
+    <td colspan="2"><span style="color: IndianRed"><b>Inne</b>
     <tr>
   
   <tr>
@@ -223,7 +223,7 @@
     <td><span style="color: grey">$10 000 + 10 min więzienia
   
   <tr bgcolor="grey">
-  <td colspan="2"><span style="color: DarkRed"><b>Ruch lotniczy</b>
+  <td colspan="2"><span style="color: IndianRed"><b>Ruch lotniczy</b>
   <tr>
 
 <tr>
