@@ -15,7 +15,7 @@
     
     
     <tr>
-        <tr bgcolor="grey">
+        <tr bgcolor="#000c19">
         <tr colspan="2"><b>Prędkość</b>
     
         
