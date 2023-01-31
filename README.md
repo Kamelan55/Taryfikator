@@ -239,7 +239,7 @@
     <td><span style="color: grey">$30 000 + 5 min więzienia
     
     <tr bgcolor="grey">
-  <td colspan="2"><span style="color: DarkRed"><b>Cayo Perico</b>
+  <td colspan="2"><span style="color: IndianRed"><b>Cayo Perico</b>
   <tr>
 
 <tr>
