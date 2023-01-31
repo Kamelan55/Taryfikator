@@ -260,5 +260,5 @@
   <tr>
     <td><span style="color: grey">Spowodowanie kolizji
     <td><span style="color: grey">$8 500
-  </table>
+  
   
