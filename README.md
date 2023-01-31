@@ -20,7 +20,7 @@
     
     <tr>
         <tr bgcolor="grey">
-        <td colspan="2"><span style="color: Maroon"><b>Prędkość</b>
+        <td colspan="2"><span style="color: DarkRed"><b>Prędkość</b>
     
         
     
@@ -48,7 +48,7 @@
     
     <tr>
         <tr bgcolor="grey">
-      <td colspan="2"><span style="color: Maroon"><b>Manewry</b>
+      <td colspan="2"><span style="color: DarkRed"><b>Manewry</b>
       <tr>
     
     <tr>
