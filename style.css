@@ -11,7 +11,13 @@
   width: 100%;
   border-collapse: collapse;
 }
-
+td   {
+  border: 3px solid grey;
+    background: grey;
+  padding: 8px;
+  text-align: center;
+  font-size: 20px;
+}
 
         
         
