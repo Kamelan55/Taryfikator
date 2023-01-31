@@ -2,22 +2,23 @@
 <html lang="pl">
     <head>
     <meta charset="UTF-8">
-    <meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" type="text/css" href="style.css">
+  
+   
     
     
     
 
 <table>
     
-    <td bgcolor="#191970"
-    <td colspan="2"><b>Taryfikator</b></td>
+    
+    <td colspan="2"><b>Taryfikator</b>
     <tr></tr>
     <tr>
         <tr bgcolor="grey"></td>
-        <td colspan="2"><b>Prędkość</b></td>
-        <tr></tr>
+        <td colspan="2"><b>Prędkość</b>
+        
     </tr>
     <tr>
         <td><span style="color: grey">Przekroczenie prędkości o 21-40km/h: 
