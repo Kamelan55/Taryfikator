@@ -20,8 +20,8 @@
         <tr></tr>
     </tr>
     <tr>
-        <td><span style="color: grey">Przekroczenie prędkości o 21-40km/h:</td>
-        <td><span style="color: grey">$2 000</td>
+        <td><span style="color: grey">Przekroczenie prędkości o 21-40km/h: </td>
+        <td><span style="color: grey">$2 000 </td>
     <tr>
         <td><span style="color: grey">Przekroczenie prędkości o 41-80km/h:</td>
         <td><span style="color: grey">$2 500</td>
