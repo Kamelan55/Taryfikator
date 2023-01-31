@@ -20,7 +20,7 @@
     
     <tr>
         <tr bgcolor="grey">
-        <td colspan="2"><span style="color: red"><b>Prędkość</b>
+        <td colspan="2"><span style="color: Maroon"><b>Prędkość</b>
     
         
     
@@ -48,7 +48,7 @@
     
     <tr>
         <tr bgcolor="grey">
-      <td colspan="2"><b>Manewry</b>
+      <td colspan="2"><span style="color: Maroon"><b>Manewry</b>
       <tr>
     
     <tr>
@@ -96,7 +96,7 @@
         <td><span style="color: grey">$2 500
       
       <tr bgcolor="grey">
-    <td colspan="2"><b>Transport</b>
+    <td colspan="2"><span style="color: Maroon"><b>Transport</b>
     <tr> 
   
   <tr>
@@ -117,7 +117,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><b>Ucieczka</b>
+    <td colspan="2"><span style="color: Maroon"><b>Ucieczka</b>
     <tr>
   
   <tr>
@@ -134,7 +134,7 @@
  
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><b>Kradzież</b>
+    <td colspan="2"><span style="color: Maroon"><b>Kradzież</b>
     <tr>
   
   <tr>
@@ -147,7 +147,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><b>Zdarzenia drogowe</b>
+    <td colspan="2"><span style="color: Maroon"><b>Zdarzenia drogowe</b>
     <tr>
     
   <tr>
@@ -164,7 +164,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><b>Postój</b>
+    <td colspan="2"><span style="color: Maroon"><b>Postój</b>
     <tr>
   
   <tr>
@@ -177,7 +177,7 @@
   
   <tr>
     <tr bgcolor="grey">
-    <td colspan="2"><b>Inne</b>
+    <td colspan="2"><span style="color: Maroon"><b>Inne</b>
     <tr>
   
   <tr>
@@ -223,7 +223,7 @@
     <td><span style="color: grey">$10 000 + 10 min więzienia
   
   <tr bgcolor="grey">
-  <td colspan="2"><b>Ruch lotniczy</b>
+  <td colspan="2"><span style="color: Maroon"><b>Ruch lotniczy</b>
   <tr>
 
 <tr>
@@ -239,7 +239,7 @@
     <td><span style="color: grey">$30 000 + 5 min więzienia
     
     <tr bgcolor="grey">
-  <td colspan="2"><b>Cayo Perico</b>
+  <td colspan="2"><span style="color: Maroon"><b>Cayo Perico</b>
   <tr>
 
 <tr>
