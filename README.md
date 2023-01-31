@@ -34,7 +34,7 @@
     <tr>
         <td><span style="color: grey">Przekroczenie prędkości o 121km/h i więcej
         <td><span style="color: grey">$6 000
-    </tr>
+    
       
    
     <tr>
@@ -217,7 +217,7 @@
   <tr>
     <td><span style="color: grey">Kara za przebywanie osób nieupoważnionych na terenie aresztu komendy głównej (tj. całego piętra -1)
     <td><span style="color: grey">$10 000 + 10 min więzienia
-  </tr>
+  
   <tr bgcolor="grey">
   <td colspan="2"><b>Ruch lotniczy</b>
   <tr>
@@ -261,4 +261,4 @@
   <tr>
     <td><span style="color: grey">Spowodowanie kolizji
     <td><span style="color: grey">$8 500
-  </tr>
+  
