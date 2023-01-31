@@ -1,4 +1,3 @@
-# Taryfikator
 <!DOCTYPE html>
 <html lang="pl">
     <head>
@@ -8,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Taryfikator</title>
     
-   
+    
 
 <table>
     
