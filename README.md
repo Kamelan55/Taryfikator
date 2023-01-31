@@ -13,8 +13,7 @@
 <table>
     
     
-    <td colspan="2"><b>Taryfikator</b>
-    <tr></tr>
+    
     <tr>
         <tr bgcolor="grey">
         <td colspan="2"><b>Prędkość</b>
