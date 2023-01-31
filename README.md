@@ -5,7 +5,7 @@
     <meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Taryfikator</title>
+    
     
     
 
@@ -20,8 +20,8 @@
         <tr></tr>
     </tr>
     <tr>
-        <td><span style="color: grey">Przekroczenie prędkości o 21-40km/h: </td>
-        <td><span style="color: grey">$2 000 </td>
+        <td><span style="color: grey">Przekroczenie prędkości o 21-40km/h: 
+        <span style="color: grey">$2 000 
     <tr>
         <td><span style="color: grey">Przekroczenie prędkości o 41-80km/h:</td>
         <td><span style="color: grey">$2 500</td>
